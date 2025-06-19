@@ -1,2 +1,20 @@
 # Computer-Science-230
 Class GitHub Repository
+1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+  The Gaming Room developed an application called Draw It or Lose It, originally designed for Android devices. The company’s goal is to expand the game to be accessible across multiple platforms, such as web browsers and iOS devices. This required the software to be designed in a way that is scalable, secure, and modular, so it can be efficiently maintained. The software needed to support multiple simultaneous users, provide user authentication and authorization, and adapt to platform-specific features while maintaining a consistent user experience across all platforms.
+
+2. What did you do particularly well in developing this documentation?
+  I revised the documentation multiple times to clarify the evaluations and comparisons of different operating platforms and development environments, assessing which would be best suited for scalability and cross-platform deployment. I effectively applied the client-server architecture using REST APIs and clearly documented the breakdown of server-side and client-side responsibilities. I also aligned the design recommendations with real-world tools and industry practices, such as containerization, user authentication, and modular software architecture.
+
+3. What about the process of working through a design document did you find helpful when developing the code?
+  Working through the design document helped me stay focused and think through each component of the application before writing any code. It served as a roadmap, allowing me to research and reflect on areas where I lacked experience. The document kept my development process organized, ensured alignment with user needs, and provided a flexible framework that could be adapted if requirements changed. It made the coding process more structured and efficient.
+
+4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  If I had the chance, I would revise the design constraints and development requirements sections. Specifically, I would explore iOS support in more depth. While iOS development may not be the most cost-effective route, it is a viable and popular platform. I would research iOS licensing requirements, available development tools like Xcode, and deployment considerations through the App Store. This would provide a more complete picture of platform options for the client.
+
+5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+  I interpreted the user’s needs by identifying the key functional goals outlined in the project requirements, such as cross-platform support, multiplayer gameplay, and user authentication. I broke these down into specific software components and design features to ensure the application could be delivered on multiple platforms. Considering user needs is critical in software design because the end product must be both functional and enjoyable for the user. Ignoring the user experience can lead to poor adoption, negative reviews, and ultimately project failure. 
+
+6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+  I approached software design by first understanding the client’s goals and identifying the functional and technical requirements. I used the client-server model as the foundation and emphasized modularity, scalability, and platform compatibility. In the future, I would continue using iterative design, creating wireframes or prototypes early on, and incorporating feedback loops with users or stakeholders. I would also leverage tools like UML diagrams and system modeling software to visualize system interactions before implementation. Prioritizing security, performance, and cross-platform testing would remain key strategies in my development process.
+
